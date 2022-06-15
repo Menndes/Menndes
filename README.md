@@ -1,4 +1,4 @@
--#sobre mim
+#sobre mim
 - 👋 Olá,meu nome é @Menndes
 - :+1: Meu e-mail de contato é isabella.mendes@escola.pr.gov.br
 - 👀 Estou interessado em aprender novas linguagens
